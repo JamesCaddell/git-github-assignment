@@ -1,0 +1,2 @@
+Git hub is a system that allows sharing and collaboration on projects.
+Git is a tool that allows you to access and update projects on github.
