@@ -1,3 +1,4 @@
+"Pull requests are a way to propose changes to a given repository so that developers can collaberate on potential changes"
 Git hub is a system that allows sharing and collaboration on projects.
 Git is a tool that allows you to access and update projects on github.
 Branching is when you  branch out from the main line of code to make changes without affecting the initial code
